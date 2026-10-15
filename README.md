@@ -10,4 +10,4 @@ Looking for a final-year internship (PFE) in Data Engineering.
 
 **Stack:** Python · SQL · Kafka · PostgreSQL · FastAPI · Docker · XGBoost · TensorFlow · ChromaDB · Streamlit
 
-[LinkedIn]((https://www.linkedin.com/in/rania-bentatou-016162331/)) · [Email](mailto:rania.bentatou05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rania-bentatou-016162331/) · [Email](mailto:rania.bentatou05@gmail.com)
